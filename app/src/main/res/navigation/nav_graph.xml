@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/searchFragment">
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="io.github.janbarari.foodapp.ui.feature.settings.SettingsFragment"
+        android:label="@string/settings" />
+
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="io.github.janbarari.foodapp.ui.feature.search.SearchFragment"
+        android:label="@string/search"
+        tools:layout="@layout/fragment_search">
+
+        <action
+            android:id="@+id/viewDrinkDetails"
+            app:destination="@id/detailsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="io.github.janbarari.foodapp.ui.feature.details.DetailsFragment"
+        tools:layout="@layout/fragment_details">
+
+        <argument
+            android:name="idDrink"
+            app:argType="string" />
+
+        <argument
+            android:name="strDrinkThumb"
+            app:argType="string" />
+
+        <argument
+            android:name="strDrink"
+            app:argType="string" />
+
+    </fragment>
+
+</navigation>

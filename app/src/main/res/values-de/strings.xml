@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodApp</string>
+
+    <string name="settings">Einstellungen</string>
+    <string name="search">Suche</string>
+    <string name="no_internet_connection_message">Stellen Sie sicher, dass Sie eine aktive Datenverbindung haben!</string>
+    <string name="search_hint">Suche nach Zutat</string>
+    <string name="search_header">Kreieren Sie die perfekte gesunde Mahlzeit</string>
+    <string name="fetch_failed">Die Daten können nicht abgerufen werden</string>
+    <string name="general_settings">Allgemeine Einstellungen</string>
+    <string name="language">Sprache</string>
+
+</resources>

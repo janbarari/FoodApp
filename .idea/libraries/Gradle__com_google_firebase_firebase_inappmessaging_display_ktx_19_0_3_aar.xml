@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-inappmessaging-display-ktx:19.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/957e1fa6a90779f22c74949ef60568d0/firebase-inappmessaging-display-ktx-19.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/957e1fa6a90779f22c74949ef60568d0/firebase-inappmessaging-display-ktx-19.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-inappmessaging-display-ktx/19.0.3/4ba682fe74f41f5f4eec9b95617f50f6a840c2c/firebase-inappmessaging-display-ktx-19.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-inappmessaging-display-ktx/19.0.3/fc408647ef9dcbb66f70ff4eb188186980f39411/firebase-inappmessaging-display-ktx-19.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

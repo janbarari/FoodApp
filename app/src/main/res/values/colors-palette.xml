@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- base colors -->
+    <color name="base100">#FFFFFF</color> <!-- [with Black Text] base background highlight from grey -->
+    <color name="base90">#F8F9FA</color> <!-- [with Black Text] button/3d widget background -->
+    <color name="base80">#EAECF0</color> <!-- [with Black Text] disabled text input background -->
+    <color name="base70">#C8CCD1</color> <!-- [with Black Text] disabled button/3d widget background -->
+    <color name="base50">#A2A9B1</color> <!-- [with Black Text] highlighted border -->
+    <color name="base30">#72777D</color> <!-- [with Black/White Text] disabled elements text placeholder text active border -->
+    <color name="base20">#54595D</color> <!-- [with White Text] emphasized secondary text at level AAA need -->
+    <color name="base10">#222222</color> <!-- [with White Text] copy color buttons/widgets text -->
+    <color name="base0">#000000</color> <!-- [with White Text] emphasized copy color active button/widgets text -->
+
+    <!-- accent colors -->
+    <color name="accent90">#EAF3FF</color> <!-- [with Black Text] hovered buttons active menu items backgrounds -->
+    <color name="accent50">#3366CC</color> <!-- [with White Text] primary buttons links page accents focus outlines -->
+    <color name="accent30">#2A4B8D</color> <!-- [with White Text] active buttons active links -->
+    <color name="red90">#FEE7E6</color> <!-- [with Black Text] -->
+    <color name="red50">#DD3333</color> <!-- [with Black/White Text] destructive actions - buttons and links alerts -->
+    <color name="red30">#B32424</color> <!-- [with White Text] destructive active buttons and links -->
+
+    <!-- supplementary colors -->
+    <color name="green90">#D5FDF4</color> <!-- [with Black Text] -->
+    <color name="green50">#00AF89</color> <!-- [with Black Text] secondary link highlight positive messages -->
+    <color name="green30">#14866D</color> <!-- [with White Text] -->
+    <color name="yellow90">#FEF6E7</color> <!-- [with Black Text] -->
+    <color name="yellow50">#FFCC33</color> <!-- [with Black Text] warning messages -->
+    <color name="yellow30">#AC6600</color> <!-- [with White Text] -->
+
+    <!-- background colors -->
+    <color name="layer1">#F8F9FA</color>
+    <color name="layer2">#FFFFFF</color>
+    <color name="layer3">#EAECF0</color>
+    <color name="layer4">#C8CCD1</color>
+
+    <!-- dark colors -->
+    <color name="black100">#000000</color>
+    <color name="grey950">#101010</color>
+    <color name="grey925">#191919</color>
+    <color name="grey900">#212121</color>
+    <color name="grey800">#424242</color>
+    <color name="grey850">#303030</color>
+
+</resources>

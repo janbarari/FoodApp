@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.janbarari:GenericRecyclerView:1.0.0-alpha@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36e233b2bcbb7d905c542411cbc8b739/GenericRecyclerView-1.0.0-alpha/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36e233b2bcbb7d905c542411cbc8b739/GenericRecyclerView-1.0.0-alpha/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.janbarari/GenericRecyclerView/1.0.0-alpha/889494371518037ea5385e5b506c58bbfe99b6fd/GenericRecyclerView-1.0.0-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

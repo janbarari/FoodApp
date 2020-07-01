@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355378789185",
+    "firebase_url": "https://cocktail-9b93c.firebaseio.com",
+    "project_id": "cocktail-9b93c",
+    "storage_bucket": "cocktail-9b93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355378789185:android:c6ea4d78cca5dbda043fc0",
+        "android_client_info": {
+          "package_name": "io.github.janbarari.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355378789185-p35v66n149hpbnp7877m0qmlcjkhp8g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0RFtyC4zpzWgTp3AWf2DPG8dWsPQurYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355378789185-p35v66n149hpbnp7877m0qmlcjkhp8g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
