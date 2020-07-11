@@ -1,13 +1,13 @@
 # FoodApp
  ![](foodapp.gif)
  
-This project gets information form an api and uses the following technologies:
+This project fetches information form an api and uses the following technologies:
 
 
   - Kotlin
   - Clean Architecture
   - Design Patterns (Singleton, Factory, Repository, Strategy, Observer)
-  - UI Trasition
+  - UI Transition
   - MVVM
   - Room
   - Coroutines
